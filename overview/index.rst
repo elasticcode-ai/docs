@@ -236,6 +236,6 @@ Powerful, Next-Gen UI
 ElasticCode's user interface is a powerful, next-gen no-code application that enpowers anyone to create fast, parallel workflows across ElasticCode's distributed task mesh.
 
 
-.. image:: ./screens/pyfi1.png
-.. image:: ./screens/pyfi5.png
-.. image:: ./screens/pyfi7.png
+.. image:: ../screens/pyfi1.png
+.. image:: ../screens/pyfi5.png
+.. image:: ../screens/pyfi7.png
