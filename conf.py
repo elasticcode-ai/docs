@@ -20,6 +20,7 @@ sys.path.insert(0, os.path.abspath('..'))
 project = 'ElasticCode'
 copyright = '2022-2026, elasticcode.ai'
 author = 'Darren Govoni'
+email = 'darren@elasticcode.ai'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
